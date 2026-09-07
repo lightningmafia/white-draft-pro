@@ -1,0 +1,56 @@
+App Store name
+White Draft Pro
+
+Subtitle
+Native Mac word processor
+
+Promotional text
+A native Mac word processor. No account, no analytics, no cloud. Your drafts stay files on your Mac.
+
+Description
+White Draft Pro is a native Mac word processor. It runs on your computer. It does not create an account. It does not send your documents anywhere.
+
+Open a file, write, save, print. Documents stay where you put them. Comments stay on the document. Preferences stay in standard macOS settings.
+
+The editor is built for writing, not for a ribbon. Set a focus width. Switch theme. Use macOS spelling. The start screen can be skipped.
+
+No Microsoft account. No telemetry. No network entitlement. The app is sandboxed and only reads or writes files you pick in Open and Save.
+
+Requires macOS 15 Sequoia or later.
+
+Keywords
+writing,document,offline,rtf,editor,focus,privacy,local,manuscript,print,pdf,spellcheck
+
+Support URL
+https://lightningmafia.github.io/white-draft-pro/support.html
+
+Marketing URL
+https://lightningmafia.github.io/white-draft-pro/
+
+Privacy policy URL
+https://lightningmafia.github.io/white-draft-pro/privacy.html
+
+Privacy nutrition label
+Tracking: false. Data is not used to track you.
+Data Not Collected.
+
+Product page notes
+Bundle ID: com.whitedraftpro.app
+Category: Productivity
+Age rating: 4+
+In-app purchases: none
+Price recommendation: $14.99 USD one-time
+Sign in: none
+Network: none
+
+Review notes for App Review
+White Draft Pro is a sandboxed macOS word processor. It has no account, no analytics, and no outgoing network use. Demo: launch the app, create a document, type, add a comment, change focus width and theme, print or export, quit. Support is GitHub Issues on this repo. Privacy policy is linked in the app and at the Privacy Policy URL.
+
+Screenshot script
+1. Blank page with native Mac chrome and a few paragraphs.
+2. Focus-width writing view.
+3. A comment on a sentence.
+4. Dark theme.
+5. Open/Save panel showing a real file on disk.
+Mac screenshot size: 2880x1800 (or 3456x2234 for 16-inch).
+Do not put the word Word on any screenshot.
